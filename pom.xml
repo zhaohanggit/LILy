@@ -14,5 +14,10 @@
         <artifactId>spring-cloud-gateway-dependencies</artifactId>
         <version>2.1.1.RELEASE</version>
     </dependency>
+    <dependency>
+        <groupId>redis.clients</groupId>
+        <artifactId>jedis</artifactId>
+        <version>2.9.0</version>
+    </dependency>
 </dependencies>
 </project>
